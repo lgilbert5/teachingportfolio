@@ -1,4 +1,4 @@
-# gilbovgc.github.io
+lgilbert5.github.io
 Teaching Portfolio
 This website was made with the help of an edgecut template file. I added in my own version of the carousel with modified javascript code. 
 <p>
